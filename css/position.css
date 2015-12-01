@@ -1,0 +1,39 @@
+.main-wrapper{
+  margin: 0 auto;
+  width: 80%;
+}
+.main-content{
+ /* position: relative;*/
+}
+.border{
+  width: 20px;
+  background-color: red;
+ /* position: absolute;*/
+}
+ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+li{
+  margin-right: 1px;
+  float: left;
+  display: inline;
+
+}
+a{
+  display: block;
+  font-family: arial;
+  background-color: maroon;
+  color: white;
+  font-size:12px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  background-color: black;
+  color:oldlace;
+}
+p{
+    text-shadow:20px 30px 2px blue;
+}

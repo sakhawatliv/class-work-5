@@ -1,0 +1,11 @@
+.main-wrapper{
+  margin: 0 auto;
+  width: 80%;
+}
+.main-content{
+  border:10px solid black;
+  overflow: auto;
+}
+.main-content img{
+  float:right;
+}
